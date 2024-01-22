@@ -1,4 +1,4 @@
-![logo](https://github.com/ibrahimtrahim/ibrahimtrahim/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash.jpg)
+![logo](https://github.com/ibrahimtrahim/ibrahimtrahim/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm BRAHIM Trahim</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
