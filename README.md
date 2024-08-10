@@ -12,9 +12,3 @@
 <a href="https://fb.com/ibrahim trahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahim trahim" height="30" width="40" /></a>
 <a href="https://instagram.com/trahimbrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trahimbrahim" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimtrahim&show_icons=true&locale=en&layout=compact" alt="brahimtrahim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimtrahim&show_icons=true&locale=en" alt="brahimtrahim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimtrahim&" alt="brahimtrahim" /></p>
