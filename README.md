@@ -1,4 +1,4 @@
-![logo](https://github.com/ibrahimtrahim/ibrahimtrahim/blob/main/banner.jpeg)
+![logo](cover.jpg)
 <h1 align="center">Hi 👋, I'm BRAHIM Trahim</h1>
 <h3 align="center">Data Analyst | Excel, SQL, Python, Power BI</h3>
 
