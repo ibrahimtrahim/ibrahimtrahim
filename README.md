@@ -1,6 +1,6 @@
 ![logo](https://github.com/ibrahimtrahim/ibrahimtrahim/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm BRAHIM Trahim</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">Data Analyst | Excel, SQL, Python, Power BI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimtrahim&label=Profile%20views&color=0e75b6&style=flat" alt="brahimtrahim" /> </p>
 
